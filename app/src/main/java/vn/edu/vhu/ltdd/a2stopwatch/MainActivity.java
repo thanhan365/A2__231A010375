@@ -205,3 +205,5 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onRestoreInstanceState – được gọi sau onStart()");
     }
 }
+
+//hoanthanh
