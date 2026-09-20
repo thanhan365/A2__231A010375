@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
         Log.d(TAG, "onRestart");
     }
-
+// vietlogic
     @Override
     protected void onDestroy() {
         stopTicking();               // luôn gỡ callback để tránh rò rỉ bộ nhớ
